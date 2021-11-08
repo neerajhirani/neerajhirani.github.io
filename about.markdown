@@ -4,20 +4,28 @@ title: About
 permalink: /about/
 ---
 
+## 👋, _I’m Neeraj Hirani_
+
 <img src="https://media.publit.io/file/NeerajHiraniSite/Neeraj-Hirani-300x300.png">
 
-<h2>👋, I’m Neeraj Hirani</h2>
-Welcome to my blog where you’ll find my writings on work stuff, books and a bit of Bangalore. 
+Welcome to my little corner of the interwebs.
 
-<h3>Quick Bio</h3>
-I currently work at [OnMobile][OnMobile] as a product manager. <br> <br>
-In the past, I have worked at small product divisions within [analytics][musigma] [consulting][impactanalytics] companies. <br> <br>
-I love receiving emails from actual people, so [fire][email] away. You can also find me on Twitter as [@neerajhirani][twitter]. 
+# _Who am I?_
 
-[OnMobile]: https://onmobile.com/
-[musigma]: https://mu-sigma.com/
-[impactanalytics]: https://impactanalytics.co/
-[email]: mailto:neerajhirani@gmail.com
-[twitter]: https://twitter.com/neerajhirani/
+- Bangalore boy (born and raised + home)
+- Current: Sr. Product Manager at [Khoros](https://khoros.com/)
+- Alum: [Mu Sigma](https://www.mu-sigma.com/), [Impact Analytics](https://www.impactanalytics.co/), [OnMobile](https://www.onmobile.com/)
+- Interested in software product startups, growth and technology
 
- 
+Welcome to my blog where you’ll find my writings on work, life, books and a bit of Bangalore.
+
+# _Reach Me_
+
+I love receiving emails from actual people, so [fire](mailto:neerajhirani@gmail.com) away. You can also find me on [Twitter](https://twitter.com/neerajhirani) or [LinkedIn](https://linkedin.com/in/neerajhirani).
+
+# _Join 50+ smart subscribers_
+
+Want to get my best thoughts delivered fresh to your inbox? Want new ideas, book summaries, and other cool stuff on anything product? You can do so by subscribing to my mailing list here.
+
+For curious, intelligent people who want to sharpen their minds.
+No spam, ever. Unsubscribe at any time with one click.
