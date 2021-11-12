@@ -25,7 +25,7 @@ I love receiving emails from actual people, so [fire](mailto:neerajhirani@gmail.
 
 # _Join 50+ smart subscribers_
 
-Want to get my best thoughts delivered fresh to your inbox? Want new ideas, book summaries, and other cool stuff on anything product? You can do so by subscribing to my mailing list here.
+Want to get my best thoughts delivered fresh to your inbox? Want new ideas, book summaries, and other cool stuff on anything product? You can do so by subscribing to my mailing list [here](https://neerajhiranisnewsletter.paperform.co/).
 
 For curious, intelligent people who want to sharpen their minds.
 No spam, ever. Unsubscribe at any time with one click.
