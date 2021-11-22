@@ -58,15 +58,13 @@ How does one learn? Outlined below are a few steps:
 In the end, it will be a subjective call with many trade-offs.
 Even after you have shaped the problem, at best, you have a set of hypotheses to work off of. You could frame your hypotheses in this manner:
 
-> We are going to do\_\_
-
-> Because we see the problem of\_\_
-
-> We know it’s a problem because\_\_
-
-> If we don’t fix it, we’ll see\_\_
-
-> We’ll know we’ve fixed it when we get\_\_
+```
+We are going to do...
+Because we see the problem of...
+We know it’s a problem because...
+If we don’t fix it, we’ll see...
+We’ll know we’ve fixed it when we get...
+```
 
 ## In Conclusion:
 
@@ -74,10 +72,10 @@ When faced with situations like these, it is important not to feel pressured to 
 
 Collaboration within product teams in problem discovery isn’t as natural as I put it. It takes a lot of time and effort to flesh out these conversations and align different stakeholders. And to make it more challenging:
 
-> Today’s solutions are only temporary.
-
-> Products evolve. Problem spaces evolve.
-
-> New ways of doing the same things more efficiently emerge.
+```
+Today’s solutions are only temporary.
+Products evolve. Problem spaces evolve.
+New ways of doing the same things more efficiently emerge.
+```
 
 Given these challenges, it is a miracle how software teams get anything done.

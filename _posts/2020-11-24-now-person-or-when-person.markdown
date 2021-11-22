@@ -22,7 +22,7 @@ That meeting really struck a chord and has stayed with me. The notes I scribbled
 - A “Now” person is the complete opposite to a “When” person. She starts by asking herself the question, “What can I start right now to deliver this?” and she just starts.
 - She starts small but with disciplined effort, keeps at it and gets things done.<br><br>
 
-<img src="https://media.publit.io/file/NeerajHiraniSite/Now-vs-When.jpg">
+<img src="/assets/Now-versus-when.png">
  
 ## Ideas on how to be a "Now" person:
 - Don't parallel process tasks. Serialize; stick to singular tasks. | Be comfortable taking one step at a time. | Create purpose and own it. |

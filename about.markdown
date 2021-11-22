@@ -6,7 +6,7 @@ permalink: /about/
 
 ## 👋, _I’m Neeraj Hirani_
 
-<img src="https://media.publit.io/file/NeerajHiraniSite/Neeraj-Hirani-300x300.png">
+<img src="/assets/Neeraj-Hirani.png">
 
 Welcome to my little corner of the interwebs.
 
