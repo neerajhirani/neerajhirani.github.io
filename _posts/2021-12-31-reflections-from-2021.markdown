@@ -4,8 +4,6 @@ title: "Reflections from 2021"
 date: 2021-12-31 19:40:32 +0530
 ---
 
-Reflections from 2021
-
 This year went by in a flash. I want to assess it across five dimensions - Career, Education, Health, Financial, and Personal.
 
 ## Career:
