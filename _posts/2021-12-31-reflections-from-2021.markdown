@@ -26,10 +26,13 @@ This year went by in a flash. I want to assess it across five dimensions - Caree
 
 ## Health:
 
-- Although I started off strong (workouts 4 out of 7 days for about 6 months), I ended up doing little to no exercising in the second half of the year. This has reflected in my constitution - I now weigh more than I ever have in my life. I go on my occasional long walks, but clearly, that isn’t enough. I need to curb my food cravings and become more disciplined. Swiggy and Zomato, I love you, but you need to go!
+- Although I started off strong (about 4 workouts every 7 days, for about 6 months), I ended up doing little to no exercising in the second half of the year. This has reflected in my constitution - I now weigh more than I ever have in my life. I eat out often and my meals tend to be heavy. I go on my occasional long walks, but clearly, that isn’t enough. I need to curb my food cravings and become more disciplined. Swiggy and Zomato, I love you, but you need to go!
 - We got double vaccinated by June and (touchwood) remained COVID free in 2021. My in-laws, however, caught it in April-May and it took a severe toll on them. This was at a time when Delhi was in terrible shape (No hospital beds were available, there was an acute shortage of oxygen cylinders and medicines - and there were curfews everywhere). My wife handled their care remotely from Bangalore. This was a difficult phase to navigate with all the anxiety and uncertainty.
-- I spent a lot of my time mindlessly scrolling through Twitter and Instagram this year - way more than I would’ve liked - I thought about this a little this week - It all stemmed from boredom, FOMO, jealousy, anxiety. I uninstalled Instagram, but couldn’t muster enough courage to remove Twitter.
-- Becoming serious about my health is going to be a big part of my 2022. I want to be physically and mentally healthy (time to dust the cobwebs off of my Headspace subscription).
+- I spent a lot of my time mindlessly scrolling through Twitter and Instagram this year - way more than I would’ve liked and this affected my mental health. My mind would be dreaming about the future or worrying about the past. I was not present in conversations. My wife pointed this out to me on several occasions - I thought about this a little this week - It all stemmed from boredom, FOMO, jealousy, anxiety. To improve in 2022, I have uninstalled Instagram, but haven't yet mustered enough courage to remove Twitter.
+- Becoming serious about my health is going to be a big part of my 2022. I want to be physically and mentally healthy.
+  - I will workout more often and stay disciplined. The long walks will continue at their natural cadence. My target weight is 78 kgs (I am at 95 kgs now).
+  - I won't look at my phone when I am not supposed to - Nights will only be meant for reading. (I have set usage limits on apps).
+  - I have had success with breathing exercises in the past. It made me less anxious (time to dust the cobwebs off of my Headspace subscription).
 
 ## Financial:
 
@@ -44,4 +47,6 @@ This year went by in a flash. I want to assess it across five dimensions - Caree
 - My wife has been a wonderful support system and balancing force - There’s a saying that too much of something is bad for you - She has been that corrective gravitational pull that ensures I don’t over index on other pursuits like work and prioritize family matters as well. She’s also been very supportive and courageous. I don’t vocalize this enough. In 2022, I will appreciate her more for the wonderful person that she is
 - My daughter has been a great teacher. She is teaching me how to be more patient and giving - She gives her love so abundantly to me, even when I am short on patience. We have been bonding over Avengers. I love her dearly. In 2022, I will be more patient and more kind to her.
 - My mother has always been my rock, but this March, I saw her at her most vulnerable. As she gets older, I want to be the support she has been to me. In 2022, I will spend more time with her. I will take more photographs with her and shoot selfie videos of us saying silly nothings.
-- I did a terrible job of keeping in touch with my friends in 2021. I forgot birthdays and came across as self-absorbed. Most of my friends no longer live in Bangalore. I will be more deliberate in reaching out to them. I will try to be a better friend in 2022.
+- I did a terrible job of keeping in touch with my friends in 2021. I forgot birthdays, hardly met any friends and didn't really keep tabs on them. 2021 was a difficult year for most. I came across as self-absorbed. I will be more deliberate in reaching out to them. I will try to be a better friend in 2022.
+
+No matter how hard this last year has been, here we are. With another chance. For this, I have nothing but gratitude. I am beginning again with new hopes, renewed energy and aspirations, and I hope _you_ do so too. May 2022 be your best year yet. Happy New Year!
