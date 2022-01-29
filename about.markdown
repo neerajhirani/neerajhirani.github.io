@@ -21,7 +21,7 @@ Welcome to my blog where you’ll find my writings on work, life, books and a bi
 
 # _Reach Me_
 
-I love receiving emails from actual people, so [fire](mailto:neerajhirani@gmail.com) away. You can also find me on [Twitter](https://twitter.com/neerajhirani){:target="\_blank"} or [LinkedIn](https://linkedin.com/in/neerajhirani){:target="\_blank"}.
+You can also find me on [Twitter](https://twitter.com/neerajhirani){:target="\_blank"} or [LinkedIn](https://linkedin.com/in/neerajhirani){:target="\_blank"}.
 
 # _Join 50+ smart subscribers_
 
