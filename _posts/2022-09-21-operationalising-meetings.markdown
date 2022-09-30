@@ -8,7 +8,7 @@ date: 2022-09-21 19:20:32 +0530
 
 Most junior PMs gravitate towards focusing on execution. In large companies, their scope is usually limited to a feature area or a problem area or a segment. So in their mind, interactions with engineers, designers and data analysts form a major part of their job. Activities like sprint planning, scrum ceremonies, backlog management, priorities take up a major portion of their time.
 
-In the absence of structure, PMs end up de-emphasising important work like problem discovery through interactions with users, customers, and customer-facing stakeholders. It is very easy to get absorbed in the day-to-day minutia of work. Important interactions tend to get easily sidelined.  
+In the absence of structure, PMs end up de-emphasising important work like interacting with users, customers, and customer-facing stakeholders. It is very easy to get absorbed in the day-to-day minutia of work. Important interactions tend to get easily sidelined.  
 
 Every PM knows they should:
 - Conduct customer and problem discovery sessions on an ongoing basis
@@ -18,9 +18,7 @@ Every PM knows they should:
 - Build relationships with team members, and
 - Stay on top of what's going on in the market.
 
-Left to their own devices, very few PMs make the effort to have these conversations consistently. Even if some PMs are having these conversations, they do so in isolation. This isn't improving the effectiveness of the team. 
-
-Even within the Product team, if you’re not meeting regularly, you won’t be aligned. Feature dependencies across product surface late. Some PMs would have already defined priorities for their squads. Knowing all this hard work is wasted effort is frustrating. 
+Left to their own devices, very few PMs make the effort to have these conversations consistently. Even if some PMs are having these conversations, they do so in isolation. This doesn't help improve the effectiveness of the team. 
 
 The Product team is a single organism. It should operate like one. It doesn't help if some folks are operating towards realising a grand vision while others are only thinking as far as the next release.
 
