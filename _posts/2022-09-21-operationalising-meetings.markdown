@@ -66,7 +66,13 @@ Below are examples of meetings that I advocate each PMs have individually or wit
 | 1:1 Skip-level meeting - PM and Product VP meeting | Monthly - 30 minutes                | Career growth, Align on strategic direction and priorities                                             |
 | PMs Backlog Management                             | Weekly - 1 hour                     | Collate all feedback / inputs from Slack / Community forum on a weekly basis                           |
 
-This method of operationalising meetings adds just the right amount of structure for the team and helps set up your PMs for success. Obviously, they still need to ensure that they're showing up, contributing actively, being honest about what they don’t understand, and being reliable. Through regular touch-points, your PMs can build up a positive reputation, and easily influence even without authority.
+This method of operationalising meetings has helped set up our team for success. 
+
+You can adapt it too. It adds just the right amount of structure for any team. 
+
+Obviously, this alone won't help your PMs succeed. They still need to ensure that they're showing up, contributing actively, being honest about what they don’t understand, and being reliable.  
+
+Through regular touch-points, your PMs can build up a positive reputation, and easily exercise influence, even without authority.
 
 **Some more notes:**
 
