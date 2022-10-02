@@ -8,7 +8,7 @@ date: 2022-09-21 19:20:32 +0530
 
 Most junior PMs gravitate towards focusing on execution. In large companies, their scope is usually limited to a feature area or a problem area or a segment. So in their mind, interactions with engineers, designers and data analysts form a major part of their job. Activities like sprint planning, scrum ceremonies, backlog management, priorities take up a major portion of their time.
 
-In the absence of structure, PMs end up de-emphasising important work like interacting with users, customers, and customer-facing stakeholders. It is very easy to get absorbed in the day-to-day minutia of work. Important interactions tend to get easily sidelined.  
+In the absence of structure, PMs end up de-emphasising important work like interacting with users, customers, and customer-facing stakeholders. It is very easy to get absorbed in the day-to-day minutia of work. Important interactions tend to get easily sidelined. This leads to sourcing product ideas top-down, leaving users unheard and under-represented.
 
 Every PM knows they should:
 - Conduct customer and problem discovery sessions on an ongoing basis
