@@ -4,13 +4,14 @@ title: "Operationalising Product Meetings"
 date: 2022-09-21 19:20:32 +0530
 ---
 
-**Note:** The below advice mainly holds good for mid to large orgs where multiple PMs handle different parts of a larger product (mostly in a B2B product environment).  
+**Note:** The below advice mainly holds good for mid to large orgs where multiple PMs handle different parts of a larger product (mostly in a B2B product environment).
 
 Most junior PMs gravitate towards focusing on execution. In large companies, their scope is usually limited to a feature area or a problem area or a segment. So in their mind, interactions with engineers, designers and data analysts form a major part of their job. Activities like sprint planning, scrum ceremonies, backlog management, priorities take up a major portion of their time.
 
 In the absence of structure, PMs end up de-emphasising important work like interacting with users, customers, and customer-facing stakeholders. It is very easy to get absorbed in the day-to-day minutia of work. Important interactions tend to get easily sidelined. This leads to sourcing product ideas top-down, leaving users unheard and under-represented.
 
 Every PM knows they should:
+
 - Conduct customer and problem discovery sessions on an ongoing basis
 - Have regular conversations with their product's users
 - Seek clarity and align on business goals
@@ -18,7 +19,7 @@ Every PM knows they should:
 - Build relationships with team members, and
 - Stay on top of what's going on in the market.
 
-Left to their own devices, very few PMs make the effort to have these conversations consistently. Even if some PMs are having these conversations, they do so in isolation. This doesn't help improve the effectiveness of the team. 
+Left to their own devices, very few PMs make the effort to have these conversations consistently. Even if some PMs are having these conversations, they do so in isolation. This doesn't help improve the effectiveness of the team.
 
 The Product team is a single organism. It should operate like one. It doesn't help if some folks are operating towards realising a grand vision while others are only thinking as far as the next release.
 
@@ -44,11 +45,10 @@ Given below are meetings we have with other stakeholder teams as a group.
 
 All of these meetings are already on the calendar of all PMs in my team. It has helped us in many ways:
 
-- **We move at the same speed:** We operate as one coordinated giant organism rather than individuals thrashing in different directions.
-- **Building leverage:** Being around experienced SMEs (sales, marketing, support, etc.) helps us build leverage. In each call, the PMs are looking at things from a specific SME group's lens. We learn new things from them and can then piece all the knowledge from this, and previous calls together. It gives us a far broader perspective than most SME's have. This helps us build credibility.
-- **Being strategic:** We choose themes beforehand and come into meetings prepared. This leads to better brainstorming and collaboration. When it comes to new requests, SMEs now have a focused forum to connect with product. We have lesser interruptions, have more time to do "think work" and are not operating in reactive mode. 
-- **Unblocking teams:** When a PM is blocked, it is because she lacks information, alignment or approvals. Every time the blocker lies outside the PM's direct influence, or when some approval or something needs to be done, a discussion is needed. Meeting as a group brings efficiency as all PMs and required stakeholders can deliberate on and align together faster. 
-- **Better cross-functional collaboration:** Since all PMs of the product attend these discussions together, we can now sense where dependencies arise faster and know which follow-up meetings need to happen between PMs / Engineers / Design and Data outside of these calls. We can reprioritise roadmap items quicker and shuffle engineering capacity to meet important goals. Even externally, our updates on new releases, feature education or communication about delays go out to all stakeholders with a unified voice.
+- Internally, within the product team, we now operate as one coordinated team rather than individuals thrashing in different directions. Meeting as a group brings efficiency as all PMs and required stakeholders can deliberate on and align together faster. We can surface where dependencies arise faster and know which follow-up meetings need to happen.
+- We choose topics of discussion beforehand and come into meetings prepared. This leads to better brainstorming and collaboration. When it comes to new requests, SMEs now have a focused forum to connect with product. We have lesser interruptions, have more time to do "think work" and are not operating in reactive mode.
+- Being around experienced SMEs (sales, marketing, support, etc.) helps us build leverage. In each call, the PMs are looking at things from a specific SME group's lens. We learn new things from them and can then piece all the knowledge from this, and previous calls together. It gives us a far broader perspective than most SME's have.
+- Our updates on new releases, feature education or communication about delays go out to all stakeholders with a unified voice.This helps us build credibility.
 
 Below are examples of meetings that I advocate each PMs have individually or with their squads.
 
@@ -66,11 +66,11 @@ Below are examples of meetings that I advocate each PMs have individually or wit
 | 1:1 Skip-level meeting - PM and Product VP meeting | Monthly - 30 minutes                | Career growth, Align on strategic direction and priorities                                             |
 | PMs Backlog Management                             | Weekly - 1 hour                     | Collate all feedback / inputs from Slack / Community forum on a weekly basis                           |
 
-This method of operationalising meetings has helped set up our team for success. 
+This method of operationalising meetings has helped set up our team for success.
 
-You can adapt it too. It adds just the right amount of structure for any team. 
+You can adapt it too. It adds just the right amount of structure for any team.
 
-Obviously, this alone won't help your PMs succeed. They still need to ensure that they're showing up, contributing actively, being honest about what they don’t understand, and being reliable.  
+Obviously, this alone won't help your PMs succeed. They still need to ensure that they're showing up, contributing actively, being honest about what they don’t understand, and being reliable.
 
 Through regular touch-points, your PMs can build up a positive reputation, and easily exercise influence, even without authority.
 
