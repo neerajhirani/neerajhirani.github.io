@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Operationalising Product Meetings"
+description: This article emphasizes the importance of ensuring that Product Managers in mid to large organizations engage in a balanced set of activities beyond day-to-day execution.
 date: 2022-09-21 19:20:32 +0530
+image: "/images/03-calendar.png"
+tags: [organization, product]
 ---
 
 **Note:** The below advice mainly holds good for mid to large orgs where multiple PMs handle different parts of a larger product (mostly in a B2B product environment).

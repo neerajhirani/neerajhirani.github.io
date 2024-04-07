@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "A Framework: Staying Problem-focused versus Solution-focused"
+description: This article focuses on how PMs should understand problems first before fixing them right away.
+image: "/images/01-understand.png"
 date: 2020-11-23 19:40:32 +0530
+tags: [product]
 ---
 
 Someone writes in to support:

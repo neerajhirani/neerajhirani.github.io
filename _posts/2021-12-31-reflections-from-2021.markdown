@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Reflections from 2021"
+description: A review of the year 2021
 date: 2021-12-31 19:40:32 +0530
+image: "/images/02-reflection.jpg"
+tags: [reflection]
 ---
 
 This year went by in a flash. I want to assess it across five dimensions - Career, Education, Health, Financial, and Personal.
