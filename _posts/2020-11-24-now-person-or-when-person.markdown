@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "Are you a Now person or a When person?"
+description: The article discusses the concept of being a "Now" person versus a "When" person.
+image: "/images/01-time.png"
 date: 2020-11-24 19:40:32 +0530
+tags: [reflection]
 ---
 
 One day, way back in 2015, when I was working at Mu Sigma, the company CEO, Dhiraj Rajaram was addressing a room of over a hundred people.
@@ -22,19 +25,20 @@ That meeting really struck a chord and has stayed with me. The notes I scribbled
 - A “Now” person is the complete opposite to a “When” person. She starts by asking herself the question, “What can I start right now to deliver this?” and she just starts.
 - She starts small but with disciplined effort, keeps at it and gets things done.<br><br>
 
-<img src="/assets/Now-versus-when.png">
- 
+![Clock]({{site.baseurl}}/images/Now-versus-when.png#wide)
+
 ## Ideas on how to be a "Now" person:
-- Don't parallel process tasks. Serialize; stick to singular tasks. | Be comfortable taking one step at a time. | Create purpose and own it. |
+
+Don't parallel process tasks. Serialize; stick to singular tasks. | Be comfortable taking one step at a time. | Create purpose and own it. |
 Create power-plays (cricket analogy — do short bursts of intense work) | Suck the juice out of your time. | Catch yourself getting distracted. |
 Don't wait for cadence. | Create anxiety. | Build in public — Announce what you want to achieve to the world. Now that you've made a public proclamation, let the world see you sweat. |
 Set strong deadlines. | Feel and express guilt. | Shraddha (positive attitude towards the unknown dimension of reality) with less cynicism |
 Believe in serendipity and synchronicity. | Take nothing for granted. | Think about 2nd and 3rd order consequences. |
 Be greedy for purposeful interactions. | Show comfort with inefficiency and unstructured-ness. | Don't get fatigued with iterations — Love them! |
-Eat that frog first and expect / wait for caviar later (do the most boring tasks first) | Be the best you can be. | 
- 
+Eat that frog first and expect / wait for caviar later (do the most boring tasks first) | Be the best you can be. |
+
 ## How to measure and keep track of yourself on your way to becoming a "Now" person?
- 
+
 - How many times did you beat a deadline?
 - What was your response time?
 - What's your "make to keep" ratio?
@@ -49,7 +53,5 @@ Eat that frog first and expect / wait for caviar later (do the most boring tasks
 - Visualize the steps you will need to execute a task
 - Map your access to internal power — What's the path to influencing powers that will help destroy obstacles in your way?
 - It is good to feel pain — Go beyond your comfort zone, with just enough discomfort (without being unreasonable)
- 
-[Photo][stopwatch] by Veri Ivanova on Unsplash
- 
-[stopwatch]: https://unsplash.com/photos/p3Pj7jOYvnM
+
+[Photo](https://unsplash.com/photos/p3Pj7jOYvnM) by Veri Ivanova on Unsplash
