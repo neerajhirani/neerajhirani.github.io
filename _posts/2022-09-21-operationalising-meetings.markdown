@@ -1,10 +1,7 @@
 ---
 layout: post
 title: "Operationalising Product Meetings"
-description: This article emphasizes the importance of ensuring that Product Managers in mid to large organizations engage in a balanced set of activities beyond day-to-day execution.
 date: 2022-09-21 19:20:32 +0530
-image: "/images/03-calendar.png"
-tags: [organization, product]
 ---
 
 **Note:** The below advice mainly holds good for mid to large orgs where multiple PMs handle different parts of a larger product (mostly in a B2B product environment).
@@ -48,10 +45,10 @@ Given below are meetings we have with other stakeholder teams as a group.
 
 All of these meetings are already on the calendar of all PMs in my team. It has helped us in many ways:
 
-- Internally, within the product team, we now operate as one coordinated team rather than individuals thrashing in different directions. Meeting as a group brings efficiency as all PMs and required stakeholders can deliberate on and align together faster. We can surface where dependencies arise faster and know which follow-up meetings need to happen.
-- We choose topics of discussion beforehand and come into meetings prepared. This leads to better brainstorming and collaboration. When it comes to new requests, SMEs now have a focused forum to connect with product. We have lesser interruptions, have more time to do "think work" and are not operating in reactive mode.
-- Being around experienced SMEs (sales, marketing, support, etc.) helps us build leverage. In each call, the PMs are looking at things from a specific SME group's lens. We learn new things from them and can then piece all the knowledge from this, and previous calls together. It gives us a far broader perspective than most SME's have.
+- Internally, within the product team, we now operate as one coordinated team rather than individuals thrashing in different directions. Meeting as a group brings efficiency as all PMs and required stakeholders can surface dependencies, deliberate on solutioning and align together faster.
+- We choose topics of discussion beforehand and come into meetings prepared. When it comes to new requests, SMEs now have a focused forum to connect with product. Being around experienced SMEs (sales, marketing, support, etc.) helps us look at things from a specific SME group's lens. We learn new things from them and can then piece all the knowledge from this, and previous calls together. It gives us a far broader perspective than most SME's have.
 - Our updates on new releases, feature education or communication about delays go out to all stakeholders with a unified voice.This helps us build credibility.
+- We have lesser interruptions, have more time to do "think work" and are not operating in reactive mode.
 
 Below are examples of meetings that I advocate each PMs have individually or with their squads.
 
